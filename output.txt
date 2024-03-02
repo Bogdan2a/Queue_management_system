@@ -1,0 +1,49 @@
+Time 0
+Waiting clients: (2,2,3); (3,4,2); (1,6,3); (4,6,3); 
+Queue 1: Closed
+Queue 2: Closed
+Time 1
+Waiting clients: (2,2,3); (3,4,2); (1,6,3); (4,6,3); 
+Queue 1: Closed
+Queue 2: Closed
+Time 2
+Waiting clients: (3,4,2); (1,6,3); (4,6,3); 
+Queue 1: (2,2,3); 
+Queue 2: Closed
+Time 3
+Waiting clients: (3,4,2); (1,6,3); (4,6,3); 
+Queue 1: (2,2,2); 
+Queue 2: Closed
+Time 4
+Waiting clients: (1,6,3); (4,6,3); 
+Queue 1: (2,2,1); 
+Queue 2: (3,4,2); 
+Time 5
+Waiting clients: (1,6,3); (4,6,3); 
+Queue 1: Closed
+Queue 2: (3,4,1); 
+Time 6
+Waiting clients: 
+Queue 1: (1,6,3); 
+Queue 2: (4,6,3); 
+Time 7
+Waiting clients: 
+Queue 1: (1,6,2); 
+Queue 2: (4,6,2); 
+Time 8
+Waiting clients: 
+Queue 1: (1,6,1); 
+Queue 2: (4,6,1); 
+Time 9
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 10
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+
+
+Average waiting time: 0.0
+
+

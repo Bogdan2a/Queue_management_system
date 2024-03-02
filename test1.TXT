@@ -1,0 +1,249 @@
+Time 0
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 1
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 2
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 3
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 4
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 5
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 6
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 7
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 8
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 9
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 10
+Waiting clients: (4,11,4); (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 11
+Waiting clients: (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: (4,11,4); 
+Queue 2: Closed
+Time 12
+Waiting clients: (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: (4,11,3); 
+Queue 2: Closed
+Time 13
+Waiting clients: (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: (4,11,2); 
+Queue 2: Closed
+Time 14
+Waiting clients: (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: (4,11,1); 
+Queue 2: Closed
+Time 15
+Waiting clients: (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 16
+Waiting clients: (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 17
+Waiting clients: (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 18
+Waiting clients: (2,19,2); (1,20,2); (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 19
+Waiting clients: (1,20,2); (3,25,4); 
+Queue 1: (2,19,2); 
+Queue 2: Closed
+Time 20
+Waiting clients: (3,25,4); 
+Queue 1: (2,19,1); 
+Queue 2: (1,20,2); 
+Time 21
+Waiting clients: (3,25,4); 
+Queue 1: Closed
+Queue 2: (1,20,1); 
+Time 22
+Waiting clients: (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 23
+Waiting clients: (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 24
+Waiting clients: (3,25,4); 
+Queue 1: Closed
+Queue 2: Closed
+Time 25
+Waiting clients: 
+Queue 1: (3,25,4); 
+Queue 2: Closed
+Time 26
+Waiting clients: 
+Queue 1: (3,25,3); 
+Queue 2: Closed
+Time 27
+Waiting clients: 
+Queue 1: (3,25,2); 
+Queue 2: Closed
+Time 28
+Waiting clients: 
+Queue 1: (3,25,1); 
+Queue 2: Closed
+Time 29
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 30
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 31
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 32
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 33
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 34
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 35
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 36
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 37
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 38
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 39
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 40
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 41
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 42
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 43
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 44
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 45
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 46
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 47
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 48
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 49
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 50
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 51
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 52
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 53
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 54
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 55
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 56
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 57
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 58
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 59
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+Time 60
+Waiting clients: 
+Queue 1: Closed
+Queue 2: Closed
+
+
+Average waiting time: 0.0
+
+
